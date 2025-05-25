@@ -31,7 +31,7 @@ Random Forest – Ensemble learning method that handles feature interactions and
 
 XGBoost – Advanced boosting technique optimized for speed and performance.
 
-Support Vector Machine (SVM) – Effective in high-dimensional spaces.
+
 
 Each model was evaluated using metrics such as accuracy, precision, recall, and F1-score.
 
