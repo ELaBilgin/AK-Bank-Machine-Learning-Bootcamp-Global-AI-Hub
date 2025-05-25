@@ -25,10 +25,10 @@ https://www.kaggle.com/code/elabilgin/heart-attack-prediction-project
 
 **Algorithms Used**
 
-Logistic Regression – Interpretable baseline for binary classification.
-
-Random Forest – Ensemble learning method that handles feature interactions and outliers well.
-
+Logistic Regression 
+Random Forest
+DecisionTree
+Gaussian Naive Bayes
 XGBoost – Advanced boosting technique optimized for speed and performance.
 
 
