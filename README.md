@@ -17,7 +17,8 @@ The dataset includes 32 features ranging from demographic data and vital signs t
 https://www.kaggle.com/datasets/ankushpanday2/heart-attack-prediction-in-united-states/data
 
 
-
+**Project Kaggle Link**
+https://www.kaggle.com/code/elabilgin/heart-attack-prediction
 
 **Algorithms Used**
 
