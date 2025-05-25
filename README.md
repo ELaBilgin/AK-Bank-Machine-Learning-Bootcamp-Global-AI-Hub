@@ -19,7 +19,7 @@ https://www.kaggle.com/datasets/ankushpanday2/heart-attack-prediction-in-united-
 
 **Project Kaggle Link**
 
-[https://www.kaggle.com/work/code](https://www.kaggle.com/code/elabilgin/heart-attack-prediction-project)
+https://www.kaggle.com/code/elabilgin/heart-attack-prediction-project
 
 
 
